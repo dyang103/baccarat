@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/baccarat/static/css/main.f1a1b3e4.chunk.css",
+    "main.js": "/baccarat/static/js/main.8ec7376b.chunk.js",
+    "main.js.map": "/baccarat/static/js/main.8ec7376b.chunk.js.map",
+    "runtime-main.js": "/baccarat/static/js/runtime-main.82c726c5.js",
+    "runtime-main.js.map": "/baccarat/static/js/runtime-main.82c726c5.js.map",
+    "static/js/2.abe91cdb.chunk.js": "/baccarat/static/js/2.abe91cdb.chunk.js",
+    "static/js/2.abe91cdb.chunk.js.map": "/baccarat/static/js/2.abe91cdb.chunk.js.map",
+    "static/js/3.ab913a1e.chunk.js": "/baccarat/static/js/3.ab913a1e.chunk.js",
+    "static/js/3.ab913a1e.chunk.js.map": "/baccarat/static/js/3.ab913a1e.chunk.js.map",
+    "index.html": "/baccarat/index.html",
+    "static/css/main.f1a1b3e4.chunk.css.map": "/baccarat/static/css/main.f1a1b3e4.chunk.css.map",
+    "static/js/2.abe91cdb.chunk.js.LICENSE.txt": "/baccarat/static/js/2.abe91cdb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82c726c5.js",
+    "static/js/2.abe91cdb.chunk.js",
+    "static/css/main.f1a1b3e4.chunk.css",
+    "static/js/main.8ec7376b.chunk.js"
+  ]
+}
