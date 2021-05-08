@@ -126,7 +126,7 @@ class Bank extends React.Component {
               </td>
               {this.props.third ? 
                 <td>
-                  <Card card = {this.props.cards.sixth}/>
+                  <Card card = {this.props.cards.fifth}/>
                 </td> : null}
             </tr>
           </tbody>
